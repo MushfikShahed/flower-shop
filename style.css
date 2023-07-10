@@ -7,18 +7,18 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+/* heading part */
 .banner-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1920px;
+    width: 1900px;
     height: 850px;
     background-color: #FDEEF1;
 }
 
 .banner-img {
     width: 635px;
-    height: 800px;
     margin-top: 50px;
     margin-right: 120px;
 }
@@ -45,10 +45,50 @@ body {
 }
 
 .btn {
-    padding: 20px 43px;
-    border-radius: 9px;
+    padding: 18px 35px;
+    border-radius: 10px;
     background: #E55473;
     color: #FFF;
     font-size: 17px;
     border: none;
 }
+
+/* featured part */
+
+.featured-text {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.tittle {
+    color: #272727;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.featured-photos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.featured-photo1,
+.featured-photo2,
+.featured-photo3 {
+    width: 464px;
+    height: 538px;
+    margin-top: 60px;
+    padding: 10px;
+}
+.featured-photo1 {
+    background-image: url('asset/Rectangle\ 3.png');
+}
+    
