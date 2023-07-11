@@ -8,6 +8,7 @@ body {
 }
 
 /* heading part */
+
 .banner-container {
     display: flex;
     justify-content: space-around;
@@ -54,12 +55,6 @@ body {
     font-size: 17px;
     border: none;
 }
-
-/* featured part */
-/* .featured-container {
-    max-width: 80%;
-    margin: auto;
-} */
 
 .featured-text {
     text-align: center;
