@@ -256,7 +256,7 @@ body {
 .profile-image img {
     height: 70px;
     width: 70px;
-    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
     overflow: hidden;
     border-radius: 50%;
 }
@@ -271,7 +271,6 @@ body {
     border-radius: 20px;
     box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.3);
     text-align: left;
-    margin-right: 20px;
 }
 
 .name {
@@ -295,7 +294,7 @@ body {
 
 .deals-text {
     text-align: center;
-    padding-top: 150px;
+    padding-top: 120px;
 }
 
 .deals-subscribe {
