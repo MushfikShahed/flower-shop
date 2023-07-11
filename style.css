@@ -221,4 +221,43 @@ body {
     width: 322px;
     height: 376px;
     margin: 40px 0;
+    margin-bottom: 60px;
+}
+
+/* deals part */
+
+.deals-container {
+    height: 449px;
+    max-width: 73%;
+    background-image: url('asset/Rectangle\ 9.png');
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.deals-text {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.deals-subscribe {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.deals-subscribe input {
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+.deals-subscribe input[placeholder] {
+    color: rgba(39, 39, 39, 0.60);
+    padding-left: 25px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.subscribe-btn {
+    margin-left: 7px;
 }
