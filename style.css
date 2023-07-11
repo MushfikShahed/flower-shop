@@ -181,7 +181,7 @@ body {
     text-align: center;
 }
 
-.color {
+.special-color {
     color: #E55473;
 }
 
@@ -290,6 +290,7 @@ body {
     background-image: url('asset/Rectangle\ 9.png');
     margin: 0 auto;
     margin-top: 50px;
+    border-radius: 10px;
 }
 
 .deals-text {
