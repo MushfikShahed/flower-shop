@@ -180,7 +180,8 @@ body {
     margin-left: 120px;
     text-align: center;
 }
-.color{
+
+.color {
     color: #E55473;
 }
 
@@ -193,4 +194,31 @@ body {
     width: 62%;
     margin: auto;
     margin-bottom: 15px;
+}
+
+/* instagram part */
+
+.instagram-container {
+    max-width: 73%;
+    margin: 0 auto;
+}
+
+.instagram-text {
+    text-align: center;
+}
+
+.instagram-description {
+    width: 44%;
+    margin: auto;
+}
+
+.instagram-gallery {
+    display: flex;
+    gap: 20px;
+}
+
+.gallery-img {
+    width: 322px;
+    height: 376px;
+    margin: 40px 0;
 }
