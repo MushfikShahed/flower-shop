@@ -261,3 +261,32 @@ body {
 .subscribe-btn {
     margin-left: 7px;
 }
+
+/* footer part */
+
+.footer-container {
+    width: 100%;
+    height: 449px;
+    background: #111010;
+    text-align: center;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-tittle {
+    color: #FDEEF1;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    width: 68%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.copyright-info {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 14px;
+}
